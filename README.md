@@ -1,6 +1,4 @@
-![Picture](https://github.com/Luchta/Catapult/Catapult_Render.png)
-
-#Parts Needed:
+# Parts Needed:
 * 4 Servos TowerPro-SG90-9g or similar		
 * Lipo_Ladegerät	
 * Lipo 1C	3,7V	
@@ -12,10 +10,10 @@
 *	rope
 *	Android phone with RoboRemo app
 
-#Tools:
+# Tools:
 *	drill: 2mm
 
-#ToDo
+# ToDo
 1. Laser cut the wooden parts
 2. change 3 servos to continous rotation
 3. assemble electronics, see circuit diagramm
