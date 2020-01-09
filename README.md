@@ -1,19 +1,19 @@
-![Picture](https://github.com/Luchta/Catapult/Catapult_Render.png "Logo Title Text 1")
+![Picture](https://github.com/Luchta/Catapult/Catapult_Render.png)
 
 #Parts Needed:
-∑∑* 4 Servos TowerPro-SG90-9g or similar		
-∑∑* Lipo_Ladeger‰t	
-∑∑* Lipo 1C	3,7V	
-∑∑*	ESP8266MOD		
-∑∑*	3,3V Regulator
-∑∑*	3 contact switch
-∑∑*	push button
-∑∑*	pin_connector
-∑∑*	rope
-∑∑*	Android phone with RoboRemo app
+* 4 Servos TowerPro-SG90-9g or similar		
+* Lipo_Ladeger√§t	
+* Lipo 1C	3,7V	
+*	ESP8266MOD		
+*	3,3V Regulator
+*	3 contact switch
+*	push button
+*	pin_connector
+*	rope
+*	Android phone with RoboRemo app
 
 #Tools:
-∑∑*	drill: 2mm
+*	drill: 2mm
 
 #ToDo
 1. Laser cut the wooden parts
