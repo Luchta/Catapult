@@ -1,0 +1,12 @@
+Zum Programmieren: 3.3V FTDI USB zu TTL Serielles Adaptermodul
+
+Platine:	Generic ESP8266 Module
+Flash Mode: 	DIO
+Flash Frequency:40MHz
+CPU Frequency:	80 MHz
+Debug port:	Disabled
+Debug Level: 	None
+Reset Method:	ck
+Upload Speed:	115200
+
+Programmer: AVRISP mkII
